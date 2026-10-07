@@ -1,3 +1,3 @@
 const nome = "Pedro"
 
-console.log(`Olá ${nome}!`)
+console.log(`Olá`)
