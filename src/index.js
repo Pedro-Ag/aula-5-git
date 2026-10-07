@@ -1,3 +1,3 @@
-const nome = "Pedro"
+const nome = "Pedro";
 
 console.log(nome);
